@@ -1,7 +1,7 @@
 
 # Clean Code Cheat sheet
 
-![Joke](src/main/resources/images/ud2/Screenshot_1.webp)
+![Joke](../../../resources/images/ud2/Screenshot_1.webp)
 
 ## ANTE TODO, CUANDO CODIFIQUES RECUERDA:
 - Ser elegante y eficiente
