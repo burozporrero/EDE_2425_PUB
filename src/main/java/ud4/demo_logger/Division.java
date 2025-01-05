@@ -1,4 +1,4 @@
-package ud4.teoria.demo_logger;
+package ud4.demo_logger;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
